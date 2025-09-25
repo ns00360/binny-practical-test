@@ -4,7 +4,7 @@
 
 Here is a demo of the project:
 
-[Demo Video](https://github.com/username/repo/raw/main/video.mp4)
+[Demo Video](https://github.com/ns00360/binny-practical-test/blob/master/Video-demo.mp4)
 
 > Click the image above to watch the video.
 
