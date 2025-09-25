@@ -20,10 +20,19 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "package": "com.binny.test",
+      "permissions": [
+        "android.permission.INTERNET"
+      ],
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "24fc5910-c911-468c-8714-0c15fc8b55fc"
+      }
     }
   }
 }
